@@ -1,5 +1,5 @@
 # 12V and -12V Power Supply
-Proiect practica de domeniu la facultate
+Proiect practica de domeniu la facultate. Scopul acestei surse de alimentare este de a o folosi atat pe parcursul facultatii cat si la lucrare de licenta.
 
 EN: Practice project at University
 
