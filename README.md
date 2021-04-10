@@ -1,5 +1,7 @@
 # 12V and -12V Power Supply
-Proiect practica la facultate
+Proiect practica de domeniu la facultate
+
+EN: Practice project at University
 
 
 ![Circuit](https://github.com/RujoiRazvan/12VpowerSupply/blob/7243e3ed26b9c127e9bf9d1dd50277a3bb07d086/powerSupplyCircuit.png)
